@@ -1,0 +1,15 @@
+button {
+  color: #35362e;
+}
+ul {
+  background-color: #426dff;
+}
+
+body {
+  background-color: #eff0ef;
+}
+div {
+  border-radius: 10px;
+  border: 2px style solid;
+  border-color: #426dff;
+}
