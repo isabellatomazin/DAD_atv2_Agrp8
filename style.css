@@ -1,0 +1,23 @@
+button {
+  color: #35362e;
+}
+ul, p {
+  display: inline-table;
+  background-color: #426dff;
+}
+
+body {
+  background-color: #eff0ef;
+}
+div {
+  border-radius: 10px;
+  border: 2px style solid;
+  background-color: #eff0ef;
+}
+margin {
+background-color: green;
+}
+padding{
+  border-color: #426dff;
+  border-style: solid;
+}
